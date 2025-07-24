@@ -27,6 +27,6 @@ This is a simplified OLX Clone project built using **React**, **Redux Toolkit**,
 | Redux Persist  | LocalStorage persistence          |
 
 ---
-
-## 📂 Project Structure
-
+🙌 Author
+Hamnas C P
+🔗 https://github.com/hamnas98
